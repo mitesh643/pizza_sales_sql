@@ -15,6 +15,7 @@ What is the average number of pizzas ordered per day?
 Which pizza types generate the highest revenue?
 What is the percentage contribution of each pizza category to total revenue?
 How has cumulative revenue grown over time?
+
 Key Insights:
 Total Orders: The restaurant received a significant number of orders, highlighting customer demand.
 Total Sales Revenue: The analysis revealed total revenue, helping assess profitability.
@@ -25,10 +26,12 @@ Category-Wise Demand: Pizza categories (e.g., vegetarian, non-vegetarian, specia
 Peak Ordering Hours: A time-based order distribution analysis identified peak business hours.
 Revenue Distribution: Each pizza category’s percentage contribution to total revenue was calculated.
 Cumulative Revenue Growth: The cumulative revenue trend provided insights into overall business performance.
+
 Technologies Used:
 SQL Queries: Data extraction and manipulation using complex queries
 Data Analysis Techniques: Aggregations, joins, sorting, filtering, and window functions
 Data Visualization (Optional): Potential use of Power BI, Tableau, or Python for visual representation
+
 Conclusion:
 This analysis provided valuable insights into customer ordering patterns, pizza preferences, and revenue distribution. The findings can help optimize menu pricing, inventory management, and marketing strategies. Understanding peak order times and best-selling items can improve operations, while category-wise revenue breakdowns can guide future product offerings.
 
